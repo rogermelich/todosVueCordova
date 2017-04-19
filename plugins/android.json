@@ -1,0 +1,49 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "85075801930",
+            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+        }
+    },
+    "dependent_plugins": {}
+}
