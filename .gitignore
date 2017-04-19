@@ -1,0 +1,6 @@
+.idea/
+plugins/
+platforms/
+node_modules/
+KeyStore.jks
+my-release-key.keystore
