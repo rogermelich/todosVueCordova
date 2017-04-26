@@ -8,41 +8,44 @@
     },
     "installed_plugins": {
         "cordova-plugin-camera": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-vibration": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "85075801930",
-            "PACKAGE_NAME": "com.ebrematic.rogermelich"
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         }
     },
     "dependent_plugins": {}
