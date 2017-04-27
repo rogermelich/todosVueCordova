@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ebrematic.todosvuerogermelich" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ebrematic.todosvuerogermelich" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Todos Vue Roger Melich</name>
   <description>
         Todos Vue Frontend
@@ -20,7 +20,7 @@
   <plugin name="cordova-plugin-console" spec="~1.0.6"/>
   <plugin name="cordova-plugin-statusbar" spec="~2.2.2"/>
   <plugin name="phonegap-plugin-push" spec="~1.10.2">
-    <variable name="SENDER_ID" value="85075801930"/>
+    <variable name="SENDER_ID" value="221272724270"/>
   </plugin>
   <plugin name="cordova-plugin-splashscreen" spec="~4.0.2"/>
   <access origin="*"/>
@@ -55,13 +55,11 @@
     <allow-intent href="itms:*"/>
     <allow-intent href="itms-apps:*"/>
   </platform>
-  <icon src="resources/android/icon/drawable-xhdpi-icon.png"/>
-  <allow-navigation href="rmelich.todosbackend.2dam.acacha.org:8080/*"/>
+  <allow-navigation href="https://rmelich.todosbackend.2dam.acacha.org/*"/>
   <preference name="StatusBarOverlaysWebView" value="true"/>
   <preference name="StatusBarBackgroundColor" value="purple"/>
   <preference name="StatusBarStyle" value="lightcontent"/>
   <preference name="SplashScreen" value="screen"/>
-  <preference name="SplashScreenDelay" value="3000"/>
   <engine name="browser" spec="~4.1.0"/>
   <engine name="android" spec="~6.1.2"/>
 </widget>
