@@ -43,9 +43,6 @@
         "phonegap-plugin-push": {
             "SENDER_ID": "85075801930",
             "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
-        },
-        "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.ebrematic.todosvuerogermelich"
         }
     },
     "dependent_plugins": {}

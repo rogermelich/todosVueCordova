@@ -1,46 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <widget id="com.ebrematic.todosvuerogermelich" version="1.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Todos Vue Roger Melich</name>
-  <description>
+    <name>Todos Vue Roger Melich</name>
+    <description>
         Todos Vue Frontend
     </description>
-  <author email="rogermelich@gmail.com" href="https://ebrematic.com">
+    <author email="rogermelich@gmail.com" href="https://ebrematic.com">
         Roger Melich Curto
     </author>
-  <content src="index.html"/>
-  <plugin name="cordova-plugin-whitelist" spec="1"/>
-  <plugin name="cordova-plugin-compat" spec="~1.1.0"/>
-  <plugin name="cordova-plugin-camera" spec="~2.4.0"/>
-  <plugin name="cordova-plugin-contacts" spec="~2.3.0"/>
-  <plugin name="cordova-plugin-device" spec="~1.1.5"/>
-  <plugin name="cordova-plugin-dialogs" spec="~1.3.2"/>
-  <plugin name="cordova-plugin-geolocation" spec="~2.4.2"/>
-  <plugin name="cordova-plugin-inappbrowser" spec="~1.7.0"/>
-  <plugin name="cordova-plugin-vibration" spec="~2.1.4"/>
-  <plugin name="cordova-plugin-console" spec="~1.0.6"/>
-  <plugin name="cordova-plugin-statusbar" spec="~2.2.2"/>
-  <plugin name="phonegap-plugin-push" spec="~1.10.2">
-    <variable name="SENDER_ID" value="221272724270"/>
-  </plugin>
-  <access origin="*"/>
-  <allow-intent href="http://*/*"/>
-  <allow-intent href="https://*/*"/>
-  <allow-intent href="tel:*"/>
-  <allow-intent href="sms:*"/>
-  <allow-intent href="mailto:*"/>
-  <allow-intent href="geo:*"/>
-  <platform name="android">
-    <allow-intent href="market:*"/>
-  </platform>
-  <platform name="ios">
-    <allow-intent href="itms:*"/>
-    <allow-intent href="itms-apps:*"/>
-  </platform>
-  <icon src="TodoIcon.png"/>
-  <allow-navigation href="https://rmelich.todosbackend.2dam.acacha.org/*"/>
-  <preference name="StatusBarOverlaysWebView" value="true"/>
-  <preference name="StatusBarBackgroundColor" value="purple"/>
-  <preference name="StatusBarStyle" value="lightcontent"/>
-  <engine name="browser" spec="~4.1.0"/>
-  <engine name="android" spec="~6.1.2"/>
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="cordova-plugin-compat" spec="~1.1.0" />
+    <plugin name="cordova-plugin-camera" spec="~2.4.0" />
+    <plugin name="cordova-plugin-contacts" spec="~2.3.0" />
+    <plugin name="cordova-plugin-device" spec="~1.1.5" />
+    <plugin name="cordova-plugin-dialogs" spec="~1.3.2" />
+    <plugin name="cordova-plugin-geolocation" spec="~2.4.2" />
+    <plugin name="cordova-plugin-inappbrowser" spec="~1.7.0" />
+    <plugin name="cordova-plugin-vibration" spec="~2.1.4" />
+    <plugin name="cordova-plugin-console" spec="~1.0.6" />
+    <plugin name="cordova-plugin-statusbar" spec="~2.2.2" />
+    <plugin name="phonegap-plugin-push" spec="~1.10.2">
+        <variable name="SENDER_ID" value="221272724270" />
+    </plugin>
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+    <icon src="TodoIcon.png" />
+    <allow-navigation href="https://rmelich.todosbackend.2dam.acacha.org/*" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="StatusBarBackgroundColor" value="purple" />
+    <preference name="StatusBarStyle" value="lightcontent" />
+    <engine name="browser" spec="~4.1.0" />
+    <engine name="android" spec="~6.1.2" />
 </widget>
